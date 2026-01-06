@@ -33,4 +33,4 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals(); // application qanday ishlayotganini tekshirsa buladi
-// there are additional things should be added for security
+// there are additional things should be added for security!
